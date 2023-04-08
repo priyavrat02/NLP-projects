@@ -1,0 +1,8 @@
+['The birds are flying\n'
+'I want to play football\n'
+'This is Lamborghini aventador with a V12 engine\n'
+'He likes chocolates and vanilla deserts\n'
+'The rainbow in sky is beautiful\n'
+'Some of the people were not present during the meeting\n'
+'Mathura is the birthplace of lord Krishna\n']
+'there was an avalanche in the mount everest\n']
